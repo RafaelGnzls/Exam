@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Roboto:wght@300&family=Rubik+Vinyl&display=swap');
+body{
+    font-family:'Roboto', sans-serif;
+}
+.navbar{
+    background-color: #4267B2;
+}
+.navbar-right{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+.navbar-text{
+    color: white;
+    font-size: 15px;
+}
+.container {
+    box-shadow: 0 0 2px 2px rgb(223, 221, 221);
+    padding-bottom: 20px;
+}
+
+h1{
+    font-size: 25px;
+    padding: 20px;
+}
+hr{
+    margin: 0px -15px 0px;
+    border: 0;
+    border-top: 1px solid #c9c7c7;
+}
+.form{
+    padding: 5px 20px 10px 20px;
+}
+.form-control{
+    margin-bottom: 30px;
+    border: 0;
+    border-bottom: 1.5px solid rgb(184, 180, 180);
+    border-radius: 0;
+}
+label{
+    font-size: 15px;
+    margin-left: -12px;
+    color: #a19e9e;
+    font-weight: bold;
+}
+h5{
+    font-size: 12px;
+    padding: 10px 0 0 0;
+    font-weight: 700;
+}
+.btn{
+    background-color: #26A69A;
+    border: 0;
+    font-weight: bold;
+    font-size: 15px;
+    width: 120px;
+    border-radius: 3px;
+    color: white;
+}
+.align-baseline{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+a{
+    color: #e3950e;
+    font-weight: bold;
+    text-decoration: none;
+}

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Roboto:wght@300&family=Rubik+Vinyl&display=swap');
+body{
+    font-family:'Roboto', sans-serif;
+}
+.navbar{
+    background-color: #4267B2;
+}
+.navbar-right{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+.navbar-text{
+    color: white;
+    font-size: 15px;
+}
+a:link {
+    COLOR: white; TEXT-DECORATION: none; font-weight: norma
+}
+.container {
+    margin-top: 10px;
+    box-shadow: 0 0 2px 2px rgb(223, 221, 221);
+}
+
+h1{
+    font-size: 25px;
+    padding: 20px;
+}
+hr{
+    margin: 0px -15px 0px;
+    border: 0;
+    border-top: 1px solid #c9c7c7;
+}
+.form{
+    padding: 20px 10px 20px 10px;
+}
+.form-control{
+    margin-bottom: 30px;
+    border: 0;
+    border-bottom: 1px solid rgb(206, 204, 204);
+    border-radius: 0;
+}
+label{
+    font-size: 15px;
+    margin-left: -12px;
+    color: #a19e9e;
+    font-weight: bold;
+}
+h5{
+    font-size: 12px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+.btn{
+    background-color: #26A69A;
+    border: 0;
+    font-weight: bold;
+    font-size: 12px;
+    width: 120px;
+    border-radius: 2px;
+    color: white;
+}
